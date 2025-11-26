@@ -1,84 +1,37 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jpvale-dev/jpvale-dev/main/banner.png" alt="JPVALE-DEV Banner" />
+  <img src="https://raw.githubusercontent.com/jpvale-dev/jpvale-dev/main/banner.png" width="100%" alt="JPVALE-DEV Banner" />
 </p>
 
 ---
 
-# 👋 Olá! Eu sou o João — também conhecido como **JPVALE-DEV**
-
-Sou um developer em evolução contínua, focado em construir bases sólidas em programação, desenvolvimento backend e boas práticas de engenharia de software.  
-Neste momento estou a reforçar conhecimentos e a preparar portefólio com novos projetos.
+### Hi, I'm João Vale 👋  
+**Developer in progress** — building strong foundations in programming, backend development and modern web technologies.
 
 ---
 
-## 🚀 Sobre mim
-- 🎯 Developer **em construção**, sempre a aprender e a melhorar  
-- 💻 Interesse especial em desenvolvimento backend  
-- 🔧 Estudo tecnologias como :contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1} e :contentReference[oaicite:2]{index=2}  
-- 📱 A desenvolver o meu primeiro grande projeto: **OnIT**  
-- 🧠 Objetivo: Entrar no mercado como Developer Júnior e crescer para Backend / iGaming
+### 🔧 Tech I’m Working With
+- :contentReference[oaicite:0]{index=0}  
+- :contentReference[oaicite:1]{index=1}  
+- :contentReference[oaicite:2]{index=2}  
+- Databases  
+- Git & Linux
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-### 🌱 **A aprender neste momento**
-- :contentReference[oaicite:3]{index=3}  
-- API REST  
-- Bases de dados  
-- Git & GitHub  
-- Arquitetura backend
-
-### 💡 **Experiência prévia**
-- :contentReference[oaicite:4]{index=4}  
-- PHP  
-- HTML / CSS / JavaScript  
-- SQL  
-- Android (Kotlin)  
-- iOS (Objective-C)
+### 📘 What I’m Learning
+- Backend fundamentals  
+- Clean APIs & best practices  
+- Real-world project structure  
+- DevOps basics (Docker, CI/CD soon)
 
 ---
 
-## 📚 Roadmap pessoal de evolução
-✔️ Finalizar módulos essenciais do curso Udemy (Web Dev Bootcamp)  
-✔️ Aprender backend com :contentReference[oaicite:5]{index=5}  
-⬜ Criar 3 projetos reais backend  
-⬜ Estruturar OnIT como projeto de portefólio  
-⬜ Aprender DevOps básico (Docker, CI/CD)  
-⬜ Criar portfolio simples  
-⬜ Preparar entrevistas e CV  
-⬜ Candidaturas para Developer Júnior  
+### 🚀 Current Projects
+- **OnIT** – My main side project (will be public soon)  
+- Small backend APIs for practice & portfolio
 
 ---
 
-## 🧩 Projetos em desenvolvimento
-### 🔹 **OnIT — Plataforma de Eventos**
-Projeto real em que estou a trabalhar semana a semana, com:
-- Autenticação  
-- Mapas  
-- Criação de eventos  
-- Perfis  
-- Chat (futuro)  
+### 📫 Contact  
+**Email:** joaopedrovale95@gmail.com  
 
-Repositórios serão adicionados aqui assim que estiverem públicos.
-
-### 🔹 Projetos de Estudo (em breve)
-- Sistema de Reservas  
-- Mini Social Network  
-- E-commerce API  
-
----
-
-## 📈 Estado atual
-Atualmente a reforçar competências e conhecimentos base, reestruturar o meu GitHub e preparar máquinas de trabalho para entrar oficialmente no mundo da programação profissional.
-
----
-
-## 📫 Contacto
-Se quiseres falar comigo, colaborar ou enviar sugestões:
-
-📧 **joaopedrovale95@gmail.com**  
-🔗 LinkedIn (em breve atualizado)
-
----
-
-> _“A cada dia mais perto de me tornar o developer que imagino ser.”_
