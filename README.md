@@ -6,17 +6,9 @@
 
 ### Hi, I'm João Vale 👋  
 **Developer in progress** — building strong foundations in programming, backend development and modern web technologies.
+Coffee Maniac ( no sugar)
+Gamer by nature 
 
----
-
-### 🔧 Tech I’m Working With
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
-- Databases  
-- Git & Linux
-
----
 
 ### 📘 What I’m Learning
 - Backend fundamentals  
@@ -33,5 +25,5 @@
 ---
 
 ### 📫 Contact  
-**Email:** joaopedrovale95@gmail.com  
+linkedin:https://www.linkedin.com/in/joaopedro-vale/
 
