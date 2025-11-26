@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jpvale-dev/jpvale-dev/main/banner.png" width="100%" alt="JPVALE-DEV Banner" />
+  <img src="https://raw.githubusercontent.com/jpvale-dev/jpvale-dev/main/banner.png" width="70%" alt="JPVALE-DEV Banner" />
 </p>
+
 
 ---
 
