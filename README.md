@@ -26,5 +26,6 @@ Gamer by nature
 ---
 
 ### 📫 Contact  
-linkedin:https://www.linkedin.com/in/joaopedro-vale/
+linkedin: https://www.linkedin.com/in/joaopedro-vale/
+Email : joaopedrofmvale@gmail.com
 
